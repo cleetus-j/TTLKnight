@@ -1,0 +1,18 @@
+_do_help: CODE, 396 0 75
+_uart_task: CODE, 1813 0 140
+_main: CODE, 910 0 104
+___lmul: CODE, 777 0 51
+_uart_init: CODE, 2023 0 12
+_timer0_init: CODE, 2010 0 13
+_strcmp: CODE, 501 0 42
+_uart_rx_ready: CODE, 1953 0 9
+_isr: CODE, 1989 0 21
+_process_message: CODE, 15 0 381
+_uart_putc: CODE, 543 0 6
+_uart_puts: CODE, 471 0 30
+_parse_binary: CODE, 733 0 44
+_strncmp: CODE, 549 0 59
+_parse_hex: CODE, 828 0 61
+_hex_digit: CODE, 692 0 41
+_parse_number: CODE, 608 0 84
+Total: 1173
